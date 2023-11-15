@@ -2,4 +2,11 @@
 
 *{
   font-family: 'Roboto', sans-serif;
+  background-color: black;
+  color: black;
 }
+
+#root{
+  background-color: white;
+}
+
